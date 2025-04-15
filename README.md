@@ -67,9 +67,6 @@ This project demonstrates the use of a **multilayer perceptron (MLP)** for solvi
 ## 📬 Contact
 
 For questions or collaboration, feel free to reach out:
-- **Author**: Vardas Pavardė
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Author**: Karolis Mikelionis
 
 ---
-
-*(Replace placeholders like `[Add accuracy here]` with actual details from your project.)*
