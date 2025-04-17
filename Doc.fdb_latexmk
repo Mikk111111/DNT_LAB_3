@@ -1,14 +1,15 @@
 # Fdb version 4
-["pdflatex"] 1744570746.21806 "c:/Users/ITWORK/Documents/DNT_Lab_3/Doc.tex" "Doc.pdf" "Doc" 1744570747.21863 0
-  "Doc.aux" 1744570747 3075 69c821b56bc4e0ab3e03f9dbaec3b19c "pdflatex"
-  "Doc.tex" 1744570745 5383 ceba684cedc8e8ea2b9793ab44b8dcec ""
+["pdflatex"] 1744862593.81771 "c:/Users/ITWORK/Documents/DNT_Lab_3/Doc.tex" "Doc.pdf" "Doc" 1744862594.81897 0
+  "Doc.aux" 1744862594 2729 87ee58128157a99462eaff77f59deb99 "pdflatex"
+  "Doc.tex" 1744862592 5004 ed35d7aec4860713e40b155eb1147f5b ""
   "KNIME_2.png" 1744567608 25688 4d0c8ca573e77489e8bdf17347f10af5 ""
   "KNIME_3.png" 1744567614 22758 842539fa7915a902208401289836ba58 ""
   "KNIME_4.png" 1744567620 13243 c6040e4339eec910ffd93b353dd5291a ""
   "KNIME_5.png" 1744567625 23723 18e9bc3bff57e175490619382f77f6ea ""
+  "KNIME_6.png" 1744568750 35006 85b894ab71aac013d6ee0f2479e46e42 ""
   "babel-lithuanian.tex" 1744570627 336 a8d0a8c8d4321e0588ebcff8cf47a6fa ""
   "babel-lt.ini" 1744570624 4906 6d3779f809e5073885b0f6f6bc7df101 ""
-  "c:/Users/ITWORK/Documents/DNT_Lab_3/Doc.tex" 1744570745 5383 ceba684cedc8e8ea2b9793ab44b8dcec ""
+  "c:/Users/ITWORK/Documents/DNT_Lab_3/Doc.tex" 1744862592 5004 ed35d7aec4860713e40b155eb1147f5b ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1744377909 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1744377909 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1744378639 3524 cb3e574dea2d1052e39280babc910dc8 ""

@@ -11,7 +11,7 @@
 \geometry{margin=2.5cm}
 
 \title{Daugiasluoksnio perceptrono klasifikavimo užduotis naudojant KNIME}
-\author{Vardas Pavardė}
+\author{Karolis Mikelionis}
 \date{Vilnius, 2025}
 
 \begin{document}
@@ -21,6 +21,7 @@
 Pateikiama duomenų analizė, paruošimas, modelio apmokymas, testavimas, hiperparametrų optimizavimas bei rezultatų vizualizacija. 
 Taip pat lyginami perceptrono rezultatai su kitais mašininio mokymosi metodais.
 \end{abstract}
+
 \section{Duomenų analizė}
 Naudoti duomenys: iris.csv iš UCI saugyklos.\newline
 \textbf{Mokymui}: 120 įrašų (po 40 kiekvienai klasei).\\
@@ -38,7 +39,7 @@ Trumpas aprašymas, kaip buvo atliktas padalijimas: naudota stratified sampling,
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.9\textwidth]{KNIME_3.png}
-    \caption{2 pav. Užduočių seka daugiasluoksniam perceptronui mokyti ir modeliui išsaugoti}
+    \caption{Užduočių seka daugiasluoksniam perceptronui mokyti ir modeliui išsaugoti}
 \end{figure}
 Trumpas aprašymas: naudotas RProp MLP Learner, modelis išsaugotas su Model Writer.\\
 Scorer komponentėje First Column: \texttt{class}, Second Column: \texttt{Prediction (class)}.\\
@@ -49,7 +50,7 @@ Scorer komponentėje First Column: \texttt{class}, Second Column: \texttt{Predic
     \item Klaidos kitimo grafikas:
     \begin{figure}[H]
         \centering
-        \includegraphics[width=0.9\textwidth]{KNIME_3.png}
+        \includegraphics[width=0.9\textwidth]{KNIME_4.png}
         \caption{Paklaidos kitimas mokymo metu}
     \end{figure}
 \end{itemize}
@@ -57,8 +58,8 @@ Scorer komponentėje First Column: \texttt{class}, Second Column: \texttt{Predic
 \section{Modelio testavimas}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.9\textwidth]{KNIME_4.png}
-    \caption{3 pav. Užduočių seka daugiasluoksniam perceptronui testuoti}
+    \includegraphics[width=0.9\textwidth]{KNIME_5.png}
+    \caption{Užduočių seka daugiasluoksniam perceptronui testuoti}
 \end{figure}
 \textbf{Testavimo rezultatai}:
 \begin{itemize}
@@ -69,8 +70,8 @@ Scorer komponentėje First Column: \texttt{class}, Second Column: \texttt{Predic
 \section{Hiperparametrų optimizavimas}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.9\textwidth]{KNIME_5.png}
-    \caption{4 pav. Užduočių seka daugiasluoksniam perceptronui mokyti ir testuoti}
+    \includegraphics[width=0.9\textwidth]{KNIME_6.png}
+    \caption{Užduočių seka daugiasluoksniam perceptronui mokyti ir testuoti}
 \end{figure}
 Bandyti hiperparametrų rinkiniai:
 \begin{itemize}
@@ -114,12 +115,6 @@ Norint duomenis pavaizduoti XY koordinačių sistemoje, 4 paveiksle pateiktą se
     \caption{Testavimo duomenys XY koordinačių sistemoje}
 \end{figure}
 
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.9\textwidth]{KNIME_2.png}
-    \caption{KNIME kodo blokas XY duomenų vizualizavimui (Color Manager ir Scatter Plot Matrix)}
-\end{figure}
-
 \section{Daugiasluoksnio perceptrono palyginimas su kitais mašininio mokymosi metodais}
 Papildomai naudoti metodai:
 \begin{itemize}
@@ -137,12 +132,6 @@ Papildomai naudoti metodai:
     \centering
     \includegraphics[width=0.9\textwidth]{KNIME_2.png}
     \caption{Decision Tree metodo taikymo seka KNIME}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.9\textwidth]{KNIME_2.png}
-    \caption{Decision Tree schema ir rezultatai}
 \end{figure}
 
 Palyginimo santrauka: tikslumai, interpretacija, komentarai apie skirtumus.

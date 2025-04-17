@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.11)  13 APR 2025 21:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.11)  17 APR 2025 07:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -265,7 +265,7 @@ Package caption Info: End \AtBeginDocument code.
 <KNIME_2.png, id=1, 592.46344pt x 329.73187pt>
 File: KNIME_2.png Graphic file (type png)
 <use KNIME_2.png>
-Package pdftex.def Info: KNIME_2.png  used on input line 32.
+Package pdftex.def Info: KNIME_2.png  used on input line 33.
 (pdftex.def)             Requested size: 409.71692pt x 228.03345pt.
 
 
@@ -275,86 +275,76 @@ Package pdftex.def Info: KNIME_2.png  used on input line 32.
 <KNIME_3.png, id=16, 590.205pt x 276.28218pt>
 File: KNIME_3.png Graphic file (type png)
 <use KNIME_3.png>
-Package pdftex.def Info: KNIME_3.png  used on input line 40.
-(pdftex.def)             Requested size: 409.71692pt x 191.79843pt.
-File: KNIME_3.png Graphic file (type png)
-<use KNIME_3.png>
-Package pdftex.def Info: KNIME_3.png  used on input line 52.
+Package pdftex.def Info: KNIME_3.png  used on input line 41.
 (pdftex.def)             Requested size: 409.71692pt x 191.79843pt.
 <KNIME_4.png, id=17, 392.21532pt x 213.79875pt>
 File: KNIME_4.png Graphic file (type png)
 <use KNIME_4.png>
-Package pdftex.def Info: KNIME_4.png  used on input line 60.
+Package pdftex.def Info: KNIME_4.png  used on input line 53.
 (pdftex.def)             Requested size: 409.71692pt x 223.35349pt.
-
-
-[2{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./KNIME_3.png>]
-<KNIME_5.png, id=25, 620.3175pt x 299.61937pt>
+<KNIME_5.png, id=18, 620.3175pt x 299.61937pt>
 File: KNIME_5.png Graphic file (type png)
 <use KNIME_5.png>
-Package pdftex.def Info: KNIME_5.png  used on input line 72.
+Package pdftex.def Info: KNIME_5.png  used on input line 61.
 (pdftex.def)             Requested size: 409.71692pt x 197.89569pt.
 
 
-[3 <./KNIME_4.png> <./KNIME_5.png>]
+[2{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./KNIME_3.png> <./KNIME_4.png>]
+<KNIME_6.png, id=27, 646.66594pt x 298.86656pt>
+File: KNIME_6.png Graphic file (type png)
+<use KNIME_6.png>
+Package pdftex.def Info: KNIME_6.png  used on input line 73.
+(pdftex.def)             Requested size: 409.71692pt x 189.3586pt.
 File: KNIME_2.png Graphic file (type png)
 <use KNIME_2.png>
-Package pdftex.def Info: KNIME_2.png  used on input line 87.
+Package pdftex.def Info: KNIME_2.png  used on input line 88.
 (pdftex.def)             Requested size: 409.71692pt x 228.03345pt.
+
+
+[3 <./KNIME_5.png> <./KNIME_6.png>]
 File: KNIME_2.png Graphic file (type png)
 <use KNIME_2.png>
-Package pdftex.def Info: KNIME_2.png  used on input line 107.
+Package pdftex.def Info: KNIME_2.png  used on input line 108.
 (pdftex.def)             Requested size: 409.71692pt x 228.03345pt.
 
 
 [4]
 File: KNIME_2.png Graphic file (type png)
 <use KNIME_2.png>
-Package pdftex.def Info: KNIME_2.png  used on input line 113.
+Package pdftex.def Info: KNIME_2.png  used on input line 114.
 (pdftex.def)             Requested size: 409.71692pt x 228.03345pt.
 File: KNIME_2.png Graphic file (type png)
 <use KNIME_2.png>
-Package pdftex.def Info: KNIME_2.png  used on input line 119.
+Package pdftex.def Info: KNIME_2.png  used on input line 127.
 (pdftex.def)             Requested size: 409.71692pt x 228.03345pt.
 
 
 [5]
 File: KNIME_2.png Graphic file (type png)
 <use KNIME_2.png>
-Package pdftex.def Info: KNIME_2.png  used on input line 132.
-(pdftex.def)             Requested size: 409.71692pt x 228.03345pt.
-File: KNIME_2.png Graphic file (type png)
-<use KNIME_2.png>
-Package pdftex.def Info: KNIME_2.png  used on input line 138.
+Package pdftex.def Info: KNIME_2.png  used on input line 133.
 (pdftex.def)             Requested size: 409.71692pt x 228.03345pt.
 
 
-[6]
-File: KNIME_2.png Graphic file (type png)
-<use KNIME_2.png>
-Package pdftex.def Info: KNIME_2.png  used on input line 144.
-(pdftex.def)             Requested size: 409.71692pt x 228.03345pt.
-
-
-[7] (./Doc.aux)
+[6] (./Doc.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5452 strings out of 469626
- 90200 string characters out of 5475183
- 483990 words of memory out of 5000000
- 32231 multiletter control sequences out of 15000+600000
+ 5459 strings out of 469626
+ 90325 string characters out of 5475183
+ 483993 words of memory out of 5000000
+ 32238 multiletter control sequences out of 15000+600000
  639110 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,9n,65p,418b,373s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Doc.pdf (7 pages, 250285 bytes).
+Output written on Doc.pdf (6 pages, 273022 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 84 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
